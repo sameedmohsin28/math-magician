@@ -8,7 +8,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
+  <!-- - [🚀 Live Demo](#live-demo) -->
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Install](#install)
@@ -51,13 +51,13 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **The app uses react to create its components**
-
+- **This Project uses SPA concept to navigate through pages**
+<!-- 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Coming Soon]()
+- [Coming Soon]() -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -67,24 +67,22 @@ To get a local copy up and running, follow these steps.
 
 ### Setup
 
-Clone this repository to your desired folder through GitHub Desktop.
+Clone this repository to your desired folder, run
+- git clone https://github.com/sameedmohsin28/math-magician.git
 
 ### Install
 
-Install this project with WinRar.
+Install this project with,
+- npm install
 
 ### Usage
 
 To run the project, 
 - npm start
-
+<!-- 
 ### Run tests
 
-To run tests, run the following command:
-
-- npx stylelint "**/*.{css,scss}"
-        
-- npx eslint "**/*.{js,jsx}"
+To run tests, run the following command: -->
 
 ### Deployment
 
@@ -123,7 +121,7 @@ If you like this project please give me an endorsement on LinkedIn.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- I would like to thank Microverse for teaching me react through this project.
+I would like to thank Microverse for teaching me react through this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -137,6 +135,6 @@ If you like this project please give me an endorsement on LinkedIn.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/sameedmohsin28/math-magician/blob/setup/LICENSE) licensed.
+This project is [MIT](https://github.com/sameedmohsin28/math-magician/blob/setup/LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
