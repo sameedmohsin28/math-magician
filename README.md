@@ -95,9 +95,9 @@ You can deploy this project using GitHub Pages.
 
 ## 👥 Author <a name="authors"></a>
 
-- GitHub: [@githubhandle](https://github.com/sameedmohsin28/)
-- Twitter: [@twitterhandle](https://twitter.com/SameedMohsin22)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sameed-mohsin-538792180/)
+- GitHub: [@sameedmohsin28](https://github.com/sameedmohsin28/)
+- Twitter: [@sameedmohsin22](https://twitter.com/SameedMohsin22)
+- LinkedIn: [Sameed Mohsin](https://www.linkedin.com/in/sameed-mohsin-538792180/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
