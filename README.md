@@ -137,6 +137,6 @@ If you like this project please give me an endorsement on LinkedIn.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/sameedmohsin28/math-magician/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/sameedmohsin28/math-magician/blob/setup/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
