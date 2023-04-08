@@ -5,7 +5,7 @@ import './calculator.css';
 function Calculator() {
   const [result, setResult] = useState({});
   const handleClick = (e) => {
-    setResult(calculate(result, e.target.textContent));
+    setResult(calculate(result, e.target.innerHTML));
   };
 
   return (
