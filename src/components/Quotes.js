@@ -22,7 +22,7 @@ const Quotes = () => {
       setLoading(false);
     };
     fetchData();
-  }, [setQuote, setLoading]);
+  }, []);
 
   if (loading) return <div>Loading...</div>;
   if (hasError) return <div>Failed to load data from API</div>;
