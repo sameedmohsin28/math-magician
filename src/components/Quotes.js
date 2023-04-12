@@ -1,5 +1,7 @@
 import { useEffect, useState } from 'react';
 
+import styles from './Quotes.module.css';
+
 const Quotes = () => {
   const [quote, setQuote] = useState([]);
   const [loading, setLoading] = useState(false);
@@ -30,7 +32,7 @@ const Quotes = () => {
   return (
     <>
       {quote.map((item) => (
-        <div key={item.author} className="quotes">
+        <div key={item.author} className={styles.quotes}>
           <p>{item.quote}</p>
           <span>
             &quot;
