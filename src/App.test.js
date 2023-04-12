@@ -2,7 +2,6 @@ import renderer from 'react-test-renderer';
 
 import calculate from './logic/calculate';
 import operate from './logic/operate';
-import Header from './components/Header';
 import Home from './components/Home';
 import Calculator from './components/Calculator';
 import Quotes from './components/Quotes';
@@ -77,5 +76,20 @@ describe('Test operate', () => {
 
   it('6 % 5 = 1', () => {
     expect(operate(6, 5, '%')).toBe('1');
+  });
+});
+
+describe('Component UI render as expected', () => {
+  it('Calculator renders correctly', () => {
+    const tree = renderer.create(<Calculator />).toJSON();
+    expect(tree).toMatchSnapshot();
+  });
+  it('Home renders correctly', () => {
+    const tree = renderer.create(<Home />).toJSON();
+    expect(tree).toMatchSnapshot();
+  });
+  it('Quote renders correctly', () => {
+    const tree = renderer.create(<Quotes />).toJSON();
+    expect(tree).toMatchSnapshot();
   });
 });
