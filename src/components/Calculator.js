@@ -21,14 +21,14 @@ function Calculator() {
             <button type="button" className="btn ac" onClick={handleClick}>A/C</button>
             <button type="button" className="btn plus-minus" onClick={handleClick}>+/-</button>
             <button type="button" className="btn percentage" onClick={handleClick}>%</button>
-            <button type="button" className="btn divide" onClick={handleClick}>/</button>
+            <button type="button" className="btn divide" onClick={handleClick}>÷</button>
           </div>
 
           <div className="row second-row">
             <button type="button" className="btn seven" onClick={handleClick}>7</button>
             <button type="button" className="btn eight" onClick={handleClick}>8</button>
             <button type="button" className="btn nine" onClick={handleClick}>9</button>
-            <button type="button" className="btn multiply" onClick={handleClick}>*</button>
+            <button type="button" className="btn multiply" onClick={handleClick}>x</button>
           </div>
 
           <div className="row third-row">
