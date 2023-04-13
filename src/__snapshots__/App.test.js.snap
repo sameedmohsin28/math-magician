@@ -1,0 +1,445 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Check UI components render Calculator page 1`] = `
+<div
+  className="parent-div"
+>
+  <div
+    className="intro-line"
+  >
+    <p>
+      Lets do some math
+    </p>
+  </div>
+  <div
+    className="calculator-div"
+  >
+    <div
+      className="display-result"
+    />
+    <div
+      className="row first-row"
+    >
+      <button
+        className="btn ac"
+        onClick={[Function]}
+        type="button"
+      >
+        A/C
+      </button>
+      <button
+        className="btn plus-minus"
+        onClick={[Function]}
+        type="button"
+      >
+        +/-
+      </button>
+      <button
+        className="btn percentage"
+        onClick={[Function]}
+        type="button"
+      >
+        %
+      </button>
+      <button
+        className="btn divide"
+        onClick={[Function]}
+        type="button"
+      >
+        ÷
+      </button>
+    </div>
+    <div
+      className="row second-row"
+    >
+      <button
+        className="btn seven"
+        onClick={[Function]}
+        type="button"
+      >
+        7
+      </button>
+      <button
+        className="btn eight"
+        onClick={[Function]}
+        type="button"
+      >
+        8
+      </button>
+      <button
+        className="btn nine"
+        onClick={[Function]}
+        type="button"
+      >
+        9
+      </button>
+      <button
+        className="btn multiply"
+        onClick={[Function]}
+        type="button"
+      >
+        x
+      </button>
+    </div>
+    <div
+      className="row third-row"
+    >
+      <button
+        className="btn four"
+        onClick={[Function]}
+        type="button"
+      >
+        4
+      </button>
+      <button
+        className="btn five"
+        onClick={[Function]}
+        type="button"
+      >
+        5
+      </button>
+      <button
+        className="btn six"
+        onClick={[Function]}
+        type="button"
+      >
+        6
+      </button>
+      <button
+        className="btn minus"
+        onClick={[Function]}
+        type="button"
+      >
+        -
+      </button>
+    </div>
+    <div
+      className="row fourth-row"
+    >
+      <button
+        className="btn one"
+        onClick={[Function]}
+        type="button"
+      >
+        1
+      </button>
+      <button
+        className="btn two"
+        onClick={[Function]}
+        type="button"
+      >
+        2
+      </button>
+      <button
+        className="btn three"
+        onClick={[Function]}
+        type="button"
+      >
+        3
+      </button>
+      <button
+        className="btn plus"
+        onClick={[Function]}
+        type="button"
+      >
+        +
+      </button>
+    </div>
+    <div
+      className="row fifth-row"
+    >
+      <button
+        className="btn zero"
+        onClick={[Function]}
+        type="button"
+      >
+        0
+      </button>
+      <button
+        className="btn dot"
+        onClick={[Function]}
+        type="button"
+      >
+        .
+      </button>
+      <button
+        className="btn equal-sign"
+        onClick={[Function]}
+        type="button"
+      >
+        =
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Check UI components render Quote page 1`] = `null`;
+
+exports[`Check UI components renders Header component 1`] = `
+<header
+  className="header"
+>
+  <h1
+    className="heading"
+  >
+    Math Magicians
+  </h1>
+  <nav>
+    <a
+      className="navLinks"
+      href="/"
+    >
+      Home
+    </a>
+    <a
+      className="navLinks"
+      href="/calculator"
+    >
+      Calculator
+    </a>
+    <a
+      className="navLinks"
+      href="/quote"
+    >
+      Quote
+    </a>
+  </nav>
+</header>
+`;
+
+exports[`Check UI components renders Header page 1`] = `
+<div
+  className="parentDiv"
+>
+  <h1
+    className="heading"
+  >
+    Welcome to our page
+  </h1>
+  <div>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed dt
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusm
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Check UI components renders Home page 1`] = `
+<div
+  className="parentDiv"
+>
+  <h1
+    className="heading"
+  >
+    Welcome to our page
+  </h1>
+  <div>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed dt
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusm
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Component UI render as expected Calculator renders correctly 1`] = `
+<div
+  className="parent-div"
+>
+  <div
+    className="intro-line"
+  >
+    <p>
+      Lets do some math
+    </p>
+  </div>
+  <div
+    className="calculator-div"
+  >
+    <div
+      className="display-result"
+    />
+    <div
+      className="row first-row"
+    >
+      <button
+        className="btn ac"
+        onClick={[Function]}
+        type="button"
+      >
+        A/C
+      </button>
+      <button
+        className="btn plus-minus"
+        onClick={[Function]}
+        type="button"
+      >
+        +/-
+      </button>
+      <button
+        className="btn percentage"
+        onClick={[Function]}
+        type="button"
+      >
+        %
+      </button>
+      <button
+        className="btn divide"
+        onClick={[Function]}
+        type="button"
+      >
+        ÷
+      </button>
+    </div>
+    <div
+      className="row second-row"
+    >
+      <button
+        className="btn seven"
+        onClick={[Function]}
+        type="button"
+      >
+        7
+      </button>
+      <button
+        className="btn eight"
+        onClick={[Function]}
+        type="button"
+      >
+        8
+      </button>
+      <button
+        className="btn nine"
+        onClick={[Function]}
+        type="button"
+      >
+        9
+      </button>
+      <button
+        className="btn multiply"
+        onClick={[Function]}
+        type="button"
+      >
+        x
+      </button>
+    </div>
+    <div
+      className="row third-row"
+    >
+      <button
+        className="btn four"
+        onClick={[Function]}
+        type="button"
+      >
+        4
+      </button>
+      <button
+        className="btn five"
+        onClick={[Function]}
+        type="button"
+      >
+        5
+      </button>
+      <button
+        className="btn six"
+        onClick={[Function]}
+        type="button"
+      >
+        6
+      </button>
+      <button
+        className="btn minus"
+        onClick={[Function]}
+        type="button"
+      >
+        -
+      </button>
+    </div>
+    <div
+      className="row fourth-row"
+    >
+      <button
+        className="btn one"
+        onClick={[Function]}
+        type="button"
+      >
+        1
+      </button>
+      <button
+        className="btn two"
+        onClick={[Function]}
+        type="button"
+      >
+        2
+      </button>
+      <button
+        className="btn three"
+        onClick={[Function]}
+        type="button"
+      >
+        3
+      </button>
+      <button
+        className="btn plus"
+        onClick={[Function]}
+        type="button"
+      >
+        +
+      </button>
+    </div>
+    <div
+      className="row fifth-row"
+    >
+      <button
+        className="btn zero"
+        onClick={[Function]}
+        type="button"
+      >
+        0
+      </button>
+      <button
+        className="btn dot"
+        onClick={[Function]}
+        type="button"
+      >
+        .
+      </button>
+      <button
+        className="btn equal-sign"
+        onClick={[Function]}
+        type="button"
+      >
+        =
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Component UI render as expected Home renders correctly 1`] = `
+<div
+  className="parentDiv"
+>
+  <h1
+    className="heading"
+  >
+    Welcome to our page
+  </h1>
+  <div>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed dt
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusm
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Component UI render as expected Quote renders correctly 1`] = `null`;
